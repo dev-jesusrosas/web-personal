@@ -2,7 +2,7 @@
  
 > Sitio web de portafolio personal construido con **HTML y CSS puro**, sin frameworks ni dependencias externas.
  
-[![Status](https://img.shields.io/badge/status-live-4ade80?style=flat-square)](https://dev-jesusrosas.github.io)
+[![Status](https://img.shields.io/badge/status-live-4ade80?style=flat-square)](https://dev-jesusrosas.github.io/Web-portafolio-Html-Css)
 [![HTML](https://img.shields.io/badge/HTML5-puro-e34f26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-puro-1572b6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![License](https://img.shields.io/badge/licencia-MIT-3b82f6?style=flat-square)](LICENSE)
@@ -53,11 +53,10 @@ portfolio/
 No requiere instalación ni servidor. Basta con clonar y abrir el archivo:
  
 ```bash
-git clone https://github.com/dev-jesusrosas/portfolio.git
-cd portfolio
+git clone https://github.com/dev-jesusrosas/Web-portafolio-Html-Css.git
+cd Web-portafolio-Html-Css
 # Abrir index.html en tu navegador preferido
 ```
- 
  
 O con VS Code usando la extensión **Live Server**:
  
@@ -81,7 +80,7 @@ Click derecho en index.html → "Open with Live Server"
  
 - 📧 [contacto@jesussistemas.com](mailto:contacto@jesussistemas.com)
 - 💼 [LinkedIn](https://linkedin.com/in/jesus-muñoz-rosas-data)
-- 🐙 [GitHub](https://github.com/dev-jesusrosas)
+- 🐙 [GitHub](https://github.com/dev-jesusrosas/Web-portafolio-Html-Css)
 ---
  
 ## 📄 Licencia
@@ -91,4 +90,3 @@ Distribuido bajo la licencia MIT. Puedes usar este proyecto como base para tu pr
 ---
  
 <p align="center">Construido con HTML & CSS puro · 2026</p>
- 
